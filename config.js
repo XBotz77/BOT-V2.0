@@ -1,7 +1,7 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
+   * Create By Saleh.
+   * Contact Me on wa.me/6285822558496
+   * Follow https://github.com/XBot77
 */
 
 const fs = require('fs')
@@ -19,24 +19,24 @@ global.APIKeys = {
 
 // Other
 global.owner = ['6285741857464','6283127014833','6281365814200']
-global.pemilik = ['6283127014833']
-global.premium = ['6281365814200']
-global.pengguna = 'KahfzXzy'
-global.botnma = 'Lycho Bot'
+global.pemilik = ['6285822558496']
+global.premium = ['6285787349774']
+global.pengguna = 'SALEH GBOT'
+global.botnma = 'RepsCengBotzz'
 global.harga = '10k'
-global.atasreply = 'Subscribe' //BUAT REPLAY DI ATAS NYA ADA TEXT
-global.atasreply2 = 'Follow Instagram' //BUAT REPLAY DI ATAS NYA ADA TEXT KE 2
-global.webreply = 'https://youtube.com/c/KahfzXzyy' //URL DI ATAS REPLAY
-global.webreply2 = 'https://instagram.com/Kahfz_13' //URL BUAT DI ATAS REPLAY KE 2
-global.melcanz = 'melcantik'
-global.footer = 'KahfzXzy' //FooterText Biar Di Bawah Nya Ada Text 
-global.web = 'https://youtube.com/c/KahfzXzy' // Ubah Sama Lu Web Nya Bebas 
-global.web2 = 'https://github.com/K4HFZ' //Ubah Jga Bebas Sama lu 
-global.ganti = 'Y O U T U B E ME' //Edit Terserah Lu Mau Apa
+global.atasreply = 'Subscribe'//SM GAMING
+global.atasreply2 = 'Follow Instagram' //salehmuhammad056_
+global.webreply = 'https://youtube.com/c/GGBotz'
+global.webreply2 = 'https://instagram.com/freefireburik'
+global.melcanz = 'LehGanzz'
+global.footer = 'LehSanz'
+global.web = 'https://youtube.com/c/btsplastik'
+global.web2 = 'https://github.com/XBotz77'
+global.ganti = 'INFO NE MASSEH'
 global.ganti2 = 'Github'
-global.accestken = 'KahfzTod'
-global.ownernma = 'KahfzXzy'
-global.packname = 'Lycho Bot'
+global.accestken = 'SalehLol'
+global.ownernma = 'Saleh DF'
+global.packname = 'LOLI Bot'
 global.author = 'WhatsApp Bot'
 global.sessionName = 'hisoka'
 global.prefa = ['','!','.','🐦','🐤','🗿']
